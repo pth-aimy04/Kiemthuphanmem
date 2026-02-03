@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36422.26
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanThiAiMy_Buoi6", "PhanThiAiMy_Buoi6\PhanThiAiMy_Buoi6.csproj", "{EDAFDB4F-5047-4C18-8B95-E5E3DF5B2872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanThiAiMy_Buoi6_Test", "PhanThiAiMy_Buoi6_Test\PhanThiAiMy_Buoi6_Test.csproj", "{DF3A45FD-AC9C-42C3-AF78-2830DF564F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAFDB4F-5047-4C18-8B95-E5E3DF5B2872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAFDB4F-5047-4C18-8B95-E5E3DF5B2872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAFDB4F-5047-4C18-8B95-E5E3DF5B2872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAFDB4F-5047-4C18-8B95-E5E3DF5B2872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3A45FD-AC9C-42C3-AF78-2830DF564F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3A45FD-AC9C-42C3-AF78-2830DF564F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3A45FD-AC9C-42C3-AF78-2830DF564F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3A45FD-AC9C-42C3-AF78-2830DF564F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8C4231A-3480-45A0-8E08-17A459758080}
+	EndGlobalSection
+EndGlobal
